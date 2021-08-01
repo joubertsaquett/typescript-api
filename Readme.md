@@ -12,12 +12,14 @@ sudo npm install
 
 ## Usage Dev
 ```
+#banckend/
 #Run command to start
 npm run dev:server
 ```
 
 ## Usage Production(Build)
 ```
+#banckend/
 #Run command to start
 npm run tsc:build
 npm start
